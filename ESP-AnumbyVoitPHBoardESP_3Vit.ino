@@ -3,6 +3,7 @@
 // 20/12/2018 - Adaptation pour shield ESP8266 avec pont h
 // 15/01/2019 - Correction bugs
 // 16/01/2019 - Performances ....
+// 22/01/2019 - Xavier - Go pour le github
 
 // Gestion des vitesses:
 // 0 = arret
